@@ -20,8 +20,11 @@ mongoose
         console.log('Connected to MongoDB database')
 
         // Starting NodeJS server
-        app.listen(5000, () => {
-            console.log('Server listening on port 5000')
+       let port = process.env.PORT || 3000;
+
+       app.listen(port, () => {
+       console.log(`app running on ${port} `);
+ 
         })
     })
     .catch((err) => {
