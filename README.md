@@ -44,3 +44,24 @@ License
 This project is licensed under the License. See the [LICENSE](https://github.com/abhilashalphonse/authpe/blob/main/LICENSE) file for details.
 
 Feel free to customize this template according to your specific platform's features, design, and legal requirements.
+
+
+
+## Screenshots
+
+<img width="1265" alt="image" src="https://github.com/abhilashalphonse/authpe/assets/73619282/855138b9-28d9-4eb1-864a-3861a7bc320f">
+
+## screenshot 2
+<img width="1270" alt="image" src="https://github.com/abhilashalphonse/authpe/assets/73619282/e443d050-4944-4381-a8bd-ea9d1b20699f">
+
+## screenshot 3
+<img width="1267" alt="image" src="https://github.com/abhilashalphonse/authpe/assets/73619282/420a4b16-3d89-40ec-b1ef-654484388d9f">
+
+## screenshot 4
+<img width="1256" alt="image" src="https://github.com/abhilashalphonse/authpe/assets/73619282/5f55f250-19a8-4e83-bdd8-551a921ad1f2">
+
+
+
+
+
+
