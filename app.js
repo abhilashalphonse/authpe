@@ -16,7 +16,7 @@ app.use("/api/billing", billingRouter);
 // Connecting to MongoDB
 const mongoose = require('mongoose')
 mongoose
-    .connect('mongodb+srv://abhilashalphonse1:2aB4oUSMVcIWH2Cw@cluster0.as6utek.mongodb.net/?retryWrites=true&w=majority', {
+    .connect('', {
         useNewUrlParser: true,
         useUnifiedTopology: true,
     })
